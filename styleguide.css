@@ -1,0 +1,20 @@
+:root {
+  --main-title-style-font-family: "CrimsonText-Regular", Helvetica;
+  --main-title-style-font-size: 64px;
+  --main-title-style-font-style: normal;
+  --main-title-style-font-weight: 400;
+  --main-title-style-letter-spacing: 0px;
+  --main-title-style-line-height: normal;
+  --sans-subtitle-style-font-family: "Montserrat-Regular", Helvetica;
+  --sans-subtitle-style-font-size: 40px;
+  --sans-subtitle-style-font-style: normal;
+  --sans-subtitle-style-font-weight: 400;
+  --sans-subtitle-style-letter-spacing: 0px;
+  --sans-subtitle-style-line-height: normal;
+  --subtitle-text-font-family: "CrimsonText-Regular", Helvetica;
+  --subtitle-text-font-size: 36px;
+  --subtitle-text-font-style: normal;
+  --subtitle-text-font-weight: 400;
+  --subtitle-text-letter-spacing: 0px;
+  --subtitle-text-line-height: normal;
+}
